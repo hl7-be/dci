@@ -11,13 +11,13 @@ Welkom in deze gezamenlijke repository voor het verzamelen van feedback over geb
 
 **FR**  
 Ce dépôt sert à :
-- Collecter des remarques techniques et métier sur les profils FHIR
+- Collecter des remarques techniques et métier sur les CareSets et les profils FHIR
 - Identifier les points bloquants ou perfectibles
 - Favoriser la cohérence et l'interopérabilité entre projets
 
 **NL**  
 Deze repository dient om:
-- Technische en functionele opmerkingen over FHIR-profielen te verzamelen
+- Technische en functionele opmerkingen over CareSets en FHIR-profielen te verzamelen
 - Blokkades of verbeterpunten te identificeren
 - Coherentie en interoperabiliteit tussen projecten te bevorderen
 
