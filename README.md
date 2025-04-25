@@ -120,10 +120,12 @@ Dit vergemakkelijkt de classificatie en opvolging tijdens de wekelijkse vergader
 ## 📝 Structure recommandée pour une issue / Aanbevolen structuur voor een issue
 **FR**  
 Vous pouvez copier l’exemple ci-dessous en cliquant sur l’icône de copie (en haut à droite du bloc), puis le coller dans la description de votre *issue*. Il vous suffit ensuite de modifier le contenu selon votre remarque spécifique.
+
 Merci d'indiquer un maximum de détails et de bien décrire le contexte.
 
 **NL**  
 U kunt het onderstaande voorbeeld kopiëren door op het kopieericoontje te klikken (rechtsboven in het blok), en het vervolgens plakken in de beschrijving van uw *issue*. Pas daarna de inhoud aan volgens uw specifieke opmerking.
+
 Geef zoveel mogelijk details en beschrijf de context duidelijk.
 
 ```markdown
