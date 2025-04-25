@@ -63,7 +63,7 @@ Si vous n'avez jamais utilisé GitHub, pas de panique ! Voici comment soumettre 
    - **Le titre**, en suivant ce format :  
      `[DC][ACRONYME_PROJET] Résumé de la remarque`  
      *(ex. : `[DI][BSS] Donnée manquante dans Patient`)*  
-   - **La description**, en suivant le modèle proposé plus haut ou en copiant-collant l'exemple recommandé.
+   - **La description**, en suivant le modèle proposé plus bas ou en copiant-collant l'exemple recommandé.
 
 4. Si vous connaissez le **CareSet** ou le **profil FHIR** concerné, indiquez-les.
 
@@ -83,7 +83,7 @@ Als u GitHub nog nooit heeft gebruikt, geen probleem! Zo dient u stap voor stap 
    - **De titel**, volgens dit formaat:  
      `[DC][PROJECTAFKORTING] Samenvatting van de opmerking`  
      *(bv. : `[DI][BSS] Ontbrekend gegeven in Patient`)*  
-   - **De beschrijving**, gebruik het aanbevolen sjabloon hierboven of kopieer het voorbeeld.
+   - **De beschrijving**, gebruik het aanbevolen sjabloon hierbeneden of kopieer het voorbeeld.
 
 4. Vermeld indien mogelijk de **CareSet** of het betrokken **FHIR-profiel**.
 
