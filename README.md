@@ -1,5 +1,5 @@
 # DCI
-Data Capabilities + Data Innovations
+Data Capabilities & Innovations
 # 🤝 Règles de contribution aux remarques sur les CareSets et les profils FHIR / Richtlijnen voor feedback op CareSets en FHIR-profielen
 
 Bienvenue dans ce dépôt collaboratif dédié à la collecte de retours sur les **CareSets** et les **profils FHIR** utilisés ou développés dans différents projets.  
@@ -61,7 +61,7 @@ Si vous n'avez jamais utilisé GitHub, pas de panique ! Voici comment soumettre 
 
 3. Remplissez :
    - **Le titre**, en suivant ce format :  
-     `[DC][ACRONYME_PROJET] Résumé de la remarque`  
+     `[DC ou DI][Abbréviation de votre projet] Résumé de la remarque`  
      *(ex. : `[DI][BSS] Donnée manquante dans Patient`)*  
    - **La description**, en suivant le modèle proposé plus bas ou en copiant-collant l'exemple recommandé.
 
@@ -81,7 +81,7 @@ Als u GitHub nog nooit heeft gebruikt, geen probleem! Zo dient u stap voor stap 
 
 3. Vul in:
    - **De titel**, volgens dit formaat:  
-     `[DC][PROJECTAFKORTING] Samenvatting van de opmerking`  
+     `[DC of DI][Project abbreviatie] Samenvatting van de opmerking`  
      *(bv. : `[DI][BSS] Ontbrekend gegeven in Patient`)*  
    - **De beschrijving**, gebruik het aanbevolen sjabloon hierbeneden of kopieer het voorbeeld.
 
@@ -96,7 +96,8 @@ Klaar! Uw issue wordt besproken tijdens de wekelijkse vergadering op vrijdag.
 ## 🗂 Contenu des issues et format du titre / Inhoud van issues en titelnotatie
 
 **FR**  
-Chaque remarque ou retour doit être formalisé dans une *issue*. Le contenu de l'issue doit respecter la structure recommandée ci-dessous.  
+Chaque remarque ou retour doit être formalisé dans une *issue*. 
+Le contenu de l'issue doit respecter la structure recommandée ci-dessous.  
 **Important :** Le **titre** de l'issue doit commencer par le **type de projet** (`DC` pour Data Capabilities ou `DI` pour Data Innovations), suivi de **l'abréviation du projet**, puis d’un court résumé de la remarque.  
 Exemples :
 - `[DC][BSS] Extension non reconnue dans Observation`
@@ -105,7 +106,8 @@ Exemples :
 Cela permet une meilleure classification et un suivi plus efficace pendant les réunions hebdomadaires.
 
 **NL**  
-Elke opmerking of feedback wordt ingediend als een *issue*. De inhoud van de issue volgt best de aanbevolen structuur hierbeneden.  
+Elke opmerking of feedback wordt ingediend als een *issue*. 
+De inhoud van de issue volgt best de aanbevolen structuur hierbeneden.  
 **Belangrijk:** De **titel** van de issue moet beginnen met het **projecttype** (`DC` voor Data Capabilities of `DI` voor Data Innovations), gevolgd door de **afkorting van het project**, en daarna een korte samenvatting van de opmerking.  
 Voorbeelden:
 - `[DC][BSS] Extensie wordt niet herkend in Observation`
@@ -118,10 +120,11 @@ Dit vergemakkelijkt de classificatie en opvolging tijdens de wekelijkse vergader
 ## 📝 Structure recommandée pour une issue / Aanbevolen structuur voor een issue
 **FR**  
 Vous pouvez copier l’exemple ci-dessous en cliquant sur l’icône de copie (en haut à droite du bloc), puis le coller dans la description de votre *issue*. Il vous suffit ensuite de modifier le contenu selon votre remarque spécifique.
+Merci d'indiquer un maximum de détails et de bien décrire le contexte.
 
 **NL**  
 U kunt het onderstaande voorbeeld kopiëren door op het kopieericoontje te klikken (rechtsboven in het blok), en het vervolgens plakken in de beschrijving van uw *issue*. Pas daarna de inhoud aan volgens uw specifieke opmerking.
-
+Geef zoveel mogelijk details en beschrijf de context duidelijk.
 
 ```markdown
 ### CareSet concerné / Betrokken CareSet
