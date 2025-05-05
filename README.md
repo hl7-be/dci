@@ -54,40 +54,42 @@ Deze repository dient om:
 **FR**  
 Si vous n'avez jamais utilisé GitHub, pas de panique ! Voici comment soumettre une remarque étape par étape :
 
-1. Rendez-vous sur la page des remarques du projet :  
+1. La première étape est de vous créer un compte utilisateur sur le site GitHub, à l’aide de votre e-mail et en activant la double authentification.
+2. Rendez-vous sur la page des remarques du projet :  
    👉 [https://github.com/hl7-be/dci/issues](https://github.com/hl7-be/dci/issues)
 
-2. Cliquez sur le bouton vert **"New issue"** (nouvelle remarque).
+3. Cliquez sur le bouton vert **"New issue"** (nouvelle remarque).
 
-3. Remplissez :
+4. Remplissez :
    - **Le titre**, en suivant ce format :  
      `[DC ou DI][Abbréviation de votre projet] Résumé de la remarque`  
      *(ex. : `[DI][BSS] Donnée manquante dans Patient`)*  
    - **La description**, en suivant le modèle proposé plus bas ou en copiant-collant l'exemple recommandé.
 
-4. Si vous connaissez le **CareSet** ou le **profil FHIR** concerné, indiquez-les.
+5. Si vous connaissez le **CareSet** ou le **profil FHIR** concerné, indiquez-les.
 
-5. Cliquez sur **"Submit new issue"** en bas de la page pour envoyer.
+6. Cliquez sur **"Submit new issue"** en bas de la page pour envoyer.
 
 C’est tout ! Votre remarque sera analysée lors de la réunion hebdomadaire du vendredi.
 
 **NL**  
 Als u GitHub nog nooit heeft gebruikt, geen probleem! Zo dient u stap voor stap feedback in:
 
-1. Ga naar de opmerkingenpagina van het project:  
+1. De eerste stap is het aanmaken van een gebruikersaccount op de GitHub-website. Gebruik hiervoor uw e-mailadres en schakel tweefactorauthenticatie in.
+2. Ga naar de opmerkingenpagina van het project:  
    👉 [https://github.com/hl7-be/dci/issues](https://github.com/hl7-be/dci/issues)
 
-2. Klik op de groene knop **"New issue"** (nieuwe opmerking).
+3. Klik op de groene knop **"New issue"** (nieuwe opmerking).
 
-3. Vul in:
+4. Vul in:
    - **De titel**, volgens dit formaat:  
      `[DC of DI][Project abbreviatie] Samenvatting van de opmerking`  
      *(bv. : `[DI][BSS] Ontbrekend gegeven in Patient`)*  
    - **De beschrijving**, gebruik het aanbevolen sjabloon hierbeneden of kopieer het voorbeeld.
 
-4. Vermeld indien mogelijk de **CareSet** of het betrokken **FHIR-profiel**.
+5. Vermeld indien mogelijk de **CareSet** of het betrokken **FHIR-profiel**.
 
-5. Klik onderaan op **"Submit new issue"** om uw opmerking in te dienen.
+6. Klik onderaan op **"Submit new issue"** om uw opmerking in te dienen.
 
 Klaar! Uw issue wordt besproken tijdens de wekelijkse vergadering op vrijdag.
 
